@@ -5,7 +5,6 @@ This is my RC Car and i will show you it moving by using the remote controller
 |:--:|:--:|:--:|:--:|
 | Elijah | Uprep | Mechanical Engineering | Senior 
 
-![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
 # Final Milestone
 
