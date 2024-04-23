@@ -20,9 +20,4 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 [![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1701931150/video_to_markdown/images/youtube--gc-W_yccmQE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gc-W_yccmQE "Elijah's Final Milestone") "Final Arduino Project")
 
-# Final Schematic Sir Kickington 
-![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
-
-# Second Milestone 
-
 
